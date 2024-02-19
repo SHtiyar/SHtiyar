@@ -23,8 +23,8 @@
 <h2 align="enter">Github Statistic</h2>
 <p align="center">
 <a href="https://github.com/penuliscode">
-  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AragamiLaw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AragamiLaw&layout=compact&layout=compact&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AragamiLaw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AragamiLaw&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
 <hr />
