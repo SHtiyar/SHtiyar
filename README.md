@@ -20,7 +20,7 @@
 </p>
 <hr />
 
-<h2 align="enter">Github Statistic</h2>
+<h2 align="center">Github Statistic</h2>
 <p align="center">
   <a href="https://github.com/AragamiLaw">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AragamiLaw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
