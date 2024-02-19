@@ -20,6 +20,15 @@
 </p>
 <hr />
 
+<h2 align="enter">Github Statistic</h2>
+<p align="center">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AragamiLaw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AragamiLaw&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
+<hr />
+
 <h2 align="center">Lets Connect! 🤝</h2>
 <p align="center">
   <a href="https://github.com/AragamiLaw"><img alt="Static Badge" src="https://img.shields.io/badge/Syaifullah_Hikmahtiyar-white?style=social&logo=github&color=orange"></a>
