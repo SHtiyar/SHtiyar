@@ -3,7 +3,7 @@
 <hr /><br>
 
 - 🔭 I’m currently working on **Python**
-- 🌱 I’m currently learning **JavaScript and REACT**
+- 🌱 I’m currently learning **ML, LLM ,JavaScript and REACT**
 - 📫 How to reach me: **syaifullah.hikmahtiyar@gmail.com**
 - 🚩 Interest in **Machine Learning and Deep Learning**
 
