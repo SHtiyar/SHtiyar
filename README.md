@@ -22,16 +22,16 @@
 
 <h2 align="center">Github Statistic</h2>
 <p align="center">
-  <a href="https://github.com/AragamiLaw">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AragamiLaw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AragamiLaw&layout=compact&layout=compact&theme=algolia"/>
+  <a href="https://github.com/SHtiyar">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SHtiyar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SHtiyar&layout=compact&layout=compact&theme=algolia"/>
   </a>
 </p>
 <hr />
 
 <h2 align="center">Lets Connect! 🤝</h2>
 <p align="center">
-  <a href="https://github.com/AragamiLaw"><img alt="Static Badge" src="https://img.shields.io/badge/Syaifullah_Hikmahtiyar-white?style=social&logo=github&color=orange" height="25px"></a>
+  <a href="https://github.com/SHtiyar"><img alt="Static Badge" src="https://img.shields.io/badge/Syaifullah_Hikmahtiyar-white?style=social&logo=github&color=orange" height="25px"></a>
   <a href="mailto:syaifullah.hikmahtiyar@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/syaifullah.hikmahtiyra%40gmail.com-white?style=social&logo=gmail&color=orange" height="25px"></a>
   <a href="https://www.linkedin.com/in/syaifullah-hikmahtiyar/"><img alt="Static Badge" src="https://img.shields.io/badge/Syaifullah_Hikmahtiyar-white?style=social&logo=linkedin&color=orange" height="25px"></a>
 </p>
